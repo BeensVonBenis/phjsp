@@ -5,6 +5,7 @@ Możecie używać wedle woli, jeśli chcecie mnie wynagrodzić za moją cięzką
 zasada działania- wywołujesz betterFetch i jako arhgument sobie piszesz tam jakiś kod php, ale bez znacznika, przykładowo
 `echo "kocham Beensa";`
 i po tym asynchronciznie możecie pozyskać te dane (await albo po wywołaniu metoda.then)
+No i pamiętajcie, by ustawić poprawny URL
 
 Pozdrawiam
 -senior dev

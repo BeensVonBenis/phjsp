@@ -1,5 +1,5 @@
 async function betterFetch(code) {
-  const res = await fetch("http://localhost/projekty/phjsp/phjsp.php", {
+  const res = await fetch(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
